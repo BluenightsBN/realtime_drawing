@@ -1,0 +1,56 @@
+body {
+
+	background-image: linear-gradient(to right, rgb(7, 50, 77),rgb(8, 54, 67),rgb(19, 5, 59),rgb(30, 162,219 ));
+
+}
+
+
+.note  {
+
+font-size: 15px;
+color: white;
+font-family: 'Times New Roman', Times, serif;
+text-decoration:underline ;
+
+}
+
+
+#copyright {
+
+position: fixed;
+color: wheat;
+bottom: 0;
+width: 100%;
+background-color: black;
+line-height: 3;
+text-align: center;
+
+}
+
+
+h3 {
+
+	font-family: Copperplate , Papyrus, fantasy	;
+    font-weight: bolder;
+    font-size: 20px;
+    color: white;
+	text-shadow: 1px 1px 5px #86c4e3;
+
+}
+
+canvas {
+
+background-color: white;
+border-style: ridge;
+
+
+}
+
+
+#square_size,label {
+
+color: white;
+font-size: 15px;
+
+
+}
